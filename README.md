@@ -1,3 +1,3 @@
 # Pop-Up-Java
 
-### Pop-uo em Java utilizando JavFX + Scene Builder e Swing
+### Pop-up em Java utilizando JavaFX + Scene Builder e Swing
